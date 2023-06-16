@@ -1,0 +1,14 @@
+{
+  "require": {
+    "test/plugin": "1.0"
+  },
+  "repositories": {
+    "plugin": {
+      "type": "path",
+      "url": "./plugins/test/plugin",
+      "options": {
+        "symlink": true
+      }
+    }
+  }
+}

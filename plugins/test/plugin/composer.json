@@ -1,0 +1,10 @@
+{
+  "name": "test/plugin",
+  "description": "42",
+  "type": "plugin",
+  "version": "1.0.0",
+  "extra": {
+    "name": "plugin",
+    "handle": "plugin"
+  }
+}
